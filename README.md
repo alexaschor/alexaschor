@@ -1,4 +1,4 @@
-Hi! I'm in my last year of undergrad at Yale University, studying computer graphics in Dr. Theodore Kim's lab.
+Hi! I'm in my last year of undergrad at Yale University researching computer graphics in [Dr. Theodore Kim](https://tkim.graphics)'s lab.
 I'm available via issues on my repositories or at `<my github username>@gmail.com`.
 My profile picture was generated with my [C++ RandomArt implementation](https://github.com/alexaschor/randomart).
 
