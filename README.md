@@ -1,5 +1,5 @@
 Hi! I'm in my last year of undergrad at Yale University researching computer graphics in [Dr. Theodore Kim](https://tkim.graphics)'s lab.
-I'm available via issues on my repositories or at `<my github username>@gmail.com`.
+I'm available via issues on my repositories or at `alexaschor@gmail.com`.
 
 I'm currently looking for PhD positions in computer graphics or geometry processing to start in Fall 2024. 
 
