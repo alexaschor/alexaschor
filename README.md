@@ -1,10 +1,8 @@
-Hi! I'm in my last year of undergrad at Yale University researching computer graphics in [Dr. Theodore Kim](https://tkim.graphics)'s lab.
-I'm available via issues on my repositories or at `alexaschor@gmail.com`.
+Hi! I am an incoming Ph.D. student in the [Yale Graphics Group](https://graphics.cs.yale.edu/), performing computer graphics research under [Dr. Theodore Kim](https://tkim.graphics). I recieved my B.S. in Computer Science from Yale in 2024. My research interests include geometry processing, fractal geometry and physical simulation. I was selected as a runner-up for the 2024 [CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/).
 
-PGP: `6AF9 7901 4077 E95A FFA0 7DC8 A788 7381 14D7 18D4`
+I will present my most recent work, _Into the Portal: Directable Fractal Self-Similarity_, this summer at **ACM SIGGRAPH 2024** in Denver, CO. 
 
-I presented my recent publication "A Shape Modulus for Fractal Geometry Generation" at Eurographics SGP2023. See the paper and code [here](https://github.com/alexaschor/JuliaShapeModulus).
-
+For more information, please refer to my [personal website](https://alexaschor.com).
 <!---
 alexaschor/alexaschor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
